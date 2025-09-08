@@ -44,7 +44,14 @@ Once authenticated, users can exchange messages encrypted with **AES-GCM**, ensu
 ---
 
 ## Demo Preview
-(Add screenshots / GIFs of registration, login, and messaging interface here)
+<img width="921" height="644" alt="Screenshot 2025-09-08 123004" src="https://github.com/user-attachments/assets/91df2759-e815-465e-89d0-a78d72b0cc92" />
+<img width="853" height="665" alt="Screenshot 2025-09-08 123034" src="https://github.com/user-attachments/assets/8186e88a-4941-473b-b852-c6a0c62370cb" />
+<img width="886" height="644" alt="Screenshot 2025-09-08 123258" src="https://github.com/user-attachments/assets/837cbc38-29aa-4296-8e73-e0278a555c0f" />
+<img width="895" height="448" alt="Screenshot 2025-09-08 123113" src="https://github.com/user-attachments/assets/cb337346-5564-4c14-b3a2-70c2ac0444cc" />
+<img width="798" height="543" alt="Screenshot 2025-09-08 123236" src="https://github.com/user-attachments/assets/c3d8d269-ea16-46ee-8693-2b60921d3720" />
+<img width="1000" height="507" alt="Screenshot 2025-09-08 123147" src="https://github.com/user-attachments/assets/d68e0efc-9137-48f4-8a11-6836d97c5fd7" />
+<img width="929" height="409" alt="Screenshot 2025-09-08 123202" src="https://github.com/user-attachments/assets/32fe516f-8184-481d-bcb5-49ebd318629f" />
+<img width="705" height="694" alt="Screenshot 2025-09-08 123219" src="https://github.com/user-attachments/assets/97f07838-a6df-44db-a466-f1d1e478ad61" />
 
 ---
 
